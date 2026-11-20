@@ -1,2 +1,1 @@
-# Exercism
-Study Projects
+Welcome
